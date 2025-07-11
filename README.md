@@ -22,7 +22,7 @@ A fully functional YouTube front-end clone built using **React**, **Tailwind CSS
 
 | Home Page | Video Detail Page |
 |-----------|-------------------|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) |
+| ![Home](screenshots/home.png) | ![Detail](screenshots/details.png) |
 
 
 ## 🔧 Installation
