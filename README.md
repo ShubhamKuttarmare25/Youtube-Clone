@@ -35,14 +35,16 @@ A fully functional YouTube front-end clone built using **React**, **Tailwind CSS
       
     npm install
 
-3. Get your API Key
-Visit RapidAPI YouTube v3
-Subscribe and get your API key
-Create a .env file in the root directory and add:
+3.**Get your API Key**
 
-VITE_REACT_APP_YOUTUBE_API_KEY=your_api_key_here
+-Visit RapidAPI YouTube v3
+-Subscribe and get your API key
+-Create a .env file in the root directory and add:
 
-4. Run the application
+ -VITE_REACT_APP_YOUTUBE_API_KEY=your_api_key_here
+
+4.**Run the application**
+   ```bash
    npm run dev
 
 
