@@ -31,3 +31,21 @@ A fully functional YouTube front-end clone built using **React**, **Tailwind CSS
    ```bash
    git clone https://github.com/ShubhamKuttarmare25/Youtube-Clone.git
    cd Youtube-Clone
+2.**Install dependencies**
+      
+    npm install
+
+3. Get your API Key
+Visit RapidAPI YouTube v3
+Subscribe and get your API key
+Create a .env file in the root directory and add:
+
+VITE_REACT_APP_YOUTUBE_API_KEY=your_api_key_here
+
+4. Run the application
+   npm run dev
+
+
+
+
+
